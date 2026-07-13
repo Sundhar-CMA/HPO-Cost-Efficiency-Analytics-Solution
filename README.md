@@ -159,7 +159,7 @@ The weighted score helps rank initiatives based on business value.
 | Data Modeling | Completed |
 | DAX & Business Logic | Completed |
 | Executive Summary | Completed |
-| Initiative Tracker | In Progress |
+| Initiative Tracker | Completed |
 | Financial Impact Dashboard | Planned |
 | Board Review Dashboard | Planned |
 
